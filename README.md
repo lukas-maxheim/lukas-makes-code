@@ -7,7 +7,7 @@
 - :goal_net: 2021 Goals: 
   - Improve JavaScript skills
   - Contribute more to Open Source Projects
-- :envelope_with_arrow:	 How to reach me ...
+[comment]: - :envelope_with_arrow:	 How to reach me ...
 - :zap: Fun fact: I love to hear/make music and cooking
 
 ### Connect with me:
