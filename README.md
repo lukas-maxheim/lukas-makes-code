@@ -16,7 +16,6 @@ Ein paar Fakten zu mir:
 <img alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.18.0/icons/css3.svg" />
 <img alt="Sass" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.18.0/icons/sass.svg" />
 <img alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.18.0/icons/javascript.svg" />
-<br/>
 
 <img alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.18.0/icons/mysql.svg" />
 <img alt="PhpStorm" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.18.0/icons/phpstorm.svg" />
@@ -26,7 +25,6 @@ Ein paar Fakten zu mir:
 <img alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.18.0/icons/github.svg" />
 <img alt="Ubuntu" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.18.0/icons/ubuntu.svg" />
 
-<br/>
 <img alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img alt="Docker" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.18.0/icons/docker.svg" />
 
