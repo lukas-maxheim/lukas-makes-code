@@ -1,23 +1,20 @@
-## Hi, ich bin Lukas - aka @lukas-makes-code
+# Hallo 👋
 
-Ich bin TYPO3 Entwickler und komme aus Koblenz, Deutschland
+Hi, I am Lukas, software engineer from Koblenz who is passionate about open-source and TYPO3.
 
-### Ein paar Fakten zu mir
-- Ich arbeite derzeit bei einer ortsansässigen Internet- und Marketing-Agentur.
-- In meiner Freizeit koche ich gerne und teile meine Rezepte [hier](https://kocht.lukas-mx.de/) :seedling:
-- Ich bilde mich aktuell in JavaScript und im Bereich DevOps und Automatisierung weiter
-
-### Ich arbeite mit
+<!--
+### Working with
 - TYPO3 // WordPress
 - HTML // CSS // Sass
 - JavaScript
 - MySQL
 - Git // GitLab // GitHub
 
-## Ich nutze
+## Using the following tools
 - PhpStorm
 - Linux // Ubuntu
 - Docker
+-->
 
 ### Social-Links
 - https://www.lukas-mx.de
