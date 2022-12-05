@@ -1,4 +1,4 @@
-# Hallo 👋
+# Hello there 👋
 
 Hi, I am Lukas, software engineer from Koblenz who is passionate about open-source and TYPO3.
 
